@@ -2,7 +2,6 @@
 <img src="https://github.com/BlaxorTheCat/ZerosAndSharps/blob/main/bin/screenshot.jpg"/>
 <h2>Zeros and Sharps is a turn based game with a little roughlike energy inside!<br>
 It plays in the console/terminal window with music, sound effects and pixel art graphics!</h2>
-<br>
 <p>
 In the <i>"0&# converter"</i> folder is a editor for creating sprites for the game,<br>
 in the editor there's 16 colors <i>(due to limitations with working inside the console window)</i><br>
